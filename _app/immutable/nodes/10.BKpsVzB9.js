@@ -1,4 +1,4 @@
-import{c as v}from"../chunks/BT0gCgyI.js";import"../chunks/DsnmJJEf.js";import{p as g,f as l,b as c,c as $,K as r,aI as b,r as m,d as h,t as y,e as x}from"../chunks/BX2_hQti.js";import{n as k,e as z,i as C,a as j}from"../chunks/CWCUhBwG.js";import{s as q}from"../chunks/DIMkd9SZ.js";import{s as A,a as D}from"../chunks/DywlzWfm.js";import{p as I}from"../chunks/BlXtxVpC.js";const O=async()=>({title:"Documentos de transparencia - CIC",description:"",documentos:await v.fetch(`
+import{c as v}from"../chunks/BT0gCgyI.js";import"../chunks/DsnmJJEf.js";import{p as g,f as l,b as c,c as $,K as r,aI as b,r as m,d as h,t as y,e as x}from"../chunks/BX2_hQti.js";import{n as k,e as z,i as C,a as j}from"../chunks/CWCUhBwG.js";import{s as q}from"../chunks/DIMkd9SZ.js";import{s as A,a as D}from"../chunks/DywlzWfm.js";import{p as I}from"../chunks/LWsil_yL.js";const O=async()=>({title:"Documentos de transparencia - CIC",description:"",documentos:await v.fetch(`
         *[_type == "transparencia"]{
         _createdAt,
         titulo,
