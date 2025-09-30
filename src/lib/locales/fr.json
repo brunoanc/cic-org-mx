@@ -189,13 +189,7 @@
                         },
                         {
                             "name": "Projection et Communication\nLic. Alexia Aillaud Castro",
-                            "image": "/img/organigrama/alexia-aillaud-castro.webp",
-                            "children": [
-                                {
-                                    "name": "Diffusion Digitale et Publics\nC. Jonny Fabricio Torres Velázquez",
-                                    "image": "/img/organigrama/jonny-fabricio-torres-velazquez.webp"
-                                }
-                            ]
+                            "image": "/img/organigrama/alexia-aillaud-castro.webp"
                         }
                     ]
                 }
