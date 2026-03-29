@@ -14,27 +14,26 @@
 	},
 	"devDependencies": {
 		"@portabletext/svelte": "^3.0.1",
-		"@sveltejs/adapter-static": "^3.0.9",
-		"@sveltejs/kit": "^2.39.1",
-		"@sveltejs/vite-plugin-svelte": "^6.2.0",
-		"svelte": "^5.38.10",
-		"svelte-check": "^4.3.1",
-		"svelte-sitemap": "^2.7.1",
+		"@sveltejs/adapter-static": "^3.0.10",
+		"@sveltejs/kit": "^2.55.0",
+		"@sveltejs/vite-plugin-svelte": "^7.0.0",
+		"svelte": "^5.55.0",
+		"svelte-check": "^4.4.5",
+		"svelte-sitemap": "^3.0.1",
 		"sveltekit-html-minifier": "^1.0.4",
-		"typescript": "^5.9.2",
-		"vite": "^7.1.5"
+		"typescript": "^5.9.3",
+		"vite": "^8.0.3"
 	},
 	"dependencies": {
-		"@fortawesome/fontawesome-free": "^7.0.1",
-		"@sanity/client": "^7.11.1",
-		"bootstrap": "^5.3.8",
+		"@fortawesome/fontawesome-free": "^7.2.0",
+		"@sanity/client": "^7.20.0",
 		"embla-carousel-autoplay": "^8.6.0",
 		"embla-carousel-svelte": "^8.6.0",
 		"svelte-i18n": "^4.0.1",
 		"svelte-typewriter": "^3.2.3"
 	},
 	"overrides": {
-		"cookie": "^0.7.2",
-		"esbuild": "^0.25.9"
+		"cookie": "^1.1.1",
+		"esbuild": "^0.27.4"
 	}
 }
