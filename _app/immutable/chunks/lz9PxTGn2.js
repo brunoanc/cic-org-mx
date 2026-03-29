@@ -1,0 +1,1 @@
+var e=null;function t(){return e||=new IntersectionObserver(e=>{e.forEach(e=>{e.intersectionRatio>.65?e.target.classList.add(`visible`):e.intersectionRatio<.25&&e.target.classList.remove(`visible`)})},{threshold:[0,.1,.25,.5,.75,1]}),e}var n=e=>{e.classList.add(`reveal`);let n=t();return n.observe(e),{destroy(){n&&n.unobserve(e)}}};export{n as t};

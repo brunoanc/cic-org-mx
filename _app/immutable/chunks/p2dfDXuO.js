@@ -1,0 +1,1 @@
+import{n as e,t}from"./D2UVaaUp.js";import{t as n}from"./Cy7TRYQG.js";var r=async(r,i)=>{let{options:a,elements:o}=t(r,i);for(;;){e(r);for(let e of o)await n(e,a)}return{update(){},destroy(){}}};export{r as t};
